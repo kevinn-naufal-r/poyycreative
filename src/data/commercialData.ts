@@ -38,7 +38,7 @@ export const commercialData: WorkProject[] = [
     thumbnailUrl: 'https://res.cloudinary.com/dyromez82/image/upload/v1778081349/GRIDS_3_ycludv.webp',
     previewUrl: 'https://res.cloudinary.com/dyromez82/video/upload/f_auto,q_auto/v1778068097/MW-1_hoedi1.mp4',
     videos: [
-      { label: 'Affiliate Version A', ytId: 'GjUE_2KPlN0' },
+      { label: 'Affiliate Version A', ytId: 'BC271WwriJo' },
       { label: 'Affiliate Version B', ytId: 'Wbr9di4uAIE' },
       { label: 'Affiliate Version C', ytId: 'oPnzASEWpA0' },
     ],
@@ -52,8 +52,8 @@ export const commercialData: WorkProject[] = [
     thumbnailUrl: 'https://res.cloudinary.com/dyromez82/image/upload/v1778406311/GRIDS_4_z50lwy.webp',
     previewUrl: 'https://res.cloudinary.com/dyromez82/video/upload/f_auto,q_auto/v1778406902/AB_zhgenv.mp4',
     videos: [
-      { label: 'Version A', ytId: 'BSekxHywunQ' },
-      { label: 'Version B', ytId: '5eJqDxxqM-c' },
+      { label: 'Version A', ytId: 'KcAw6Sm0NmY' },
+      { label: 'Version B', ytId: 'RkkP6UIQISs' },
     ],
   },
   {
