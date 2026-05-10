@@ -52,8 +52,8 @@ export const commercialData: WorkProject[] = [
     thumbnailUrl: 'https://res.cloudinary.com/dyromez82/image/upload/v1778406311/GRIDS_4_z50lwy.webp',
     previewUrl: 'https://res.cloudinary.com/dyromez82/video/upload/f_auto,q_auto/v1778406902/AB_zhgenv.mp4',
     videos: [
-      { label: 'Affiliate Version A', ytId: 'BSekxHywunQ' },
-      { label: 'Affiliate Version B', ytId: '5eJqDxxqM-c' },
+      { label: 'Version A', ytId: 'BSekxHywunQ' },
+      { label: 'Version B', ytId: '5eJqDxxqM-c' },
     ],
   },
   {
