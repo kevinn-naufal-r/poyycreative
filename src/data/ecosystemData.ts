@@ -26,7 +26,7 @@ export const ecosystemData: EcosystemItem[] = [
     subtitle: null,
     role: ' ',
     description:
-      'A comprehensive, visual-first curriculum teaching the art and science of AI prompting. From absolute beginner to professional-grade output — every sequence matters.',
+      'A comprehensive, visual-first curriculum teaching the art and science of AI prompting. From absolute beginner to professional-grade output.',
     vibe: 'Professional Prompting Masterclass',
     status: 'COMING SOON',
     link: undefined,
